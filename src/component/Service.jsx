@@ -1,5 +1,5 @@
 import React from "react";
-import serviceData from "../data/ServiceData.js";
+import servicedata from "../data/servicedata";
 
 function Service() {
   return (
@@ -10,7 +10,7 @@ function Service() {
           <h1 className="text-4xl lg:text-[6vw]">What I Offer</h1>
         </div>
         <div className="max-w-[80%] flex justify-between mx-auto flex-wrap gap-6">
-          {serviceData.map(({ id, image, heading, price, text }) => (
+          {servicedata.map(({ id, image, heading, price, text }) => (
             <div
               key={id}
               className="relative h-[450px] p-10 bg-[#F8F8F8] text-center rounded-xl shadow-md flex flex-col justify-between 

@@ -23,10 +23,10 @@ function PortfolioSection() {
     {/* Image Divs */}
     <div className="flex gap-7">
       <div className="h-[450px] w-[400px] bg-amber-200">
-        <img src="public/portfolio/WhatsApp Image 2025-11-29 at 21.39.18_0ff02d06.jpg" alt="" className=' h-full w-full object-cover' />
+        <img src="/portfolio/WhatsApp Image 2025-11-29 at 21.39.18_0ff02d06.jpg" alt="" className=' h-full w-full object-cover' />
       </div>
       <div className="h-[450px] w-[400px] bg-amber-700">
-        <img src="public/portfolio/WhatsApp Image 2025-11-29 at 21.39.19_b481f66f.jpg" alt="" className='h-full w-full object-cover' />
+        <img src="/portfolio/WhatsApp Image 2025-11-29 at 21.39.19_b481f66f.jpg" alt="" className='h-full w-full object-cover' />
       </div>
     </div>
 

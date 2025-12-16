@@ -1,0 +1,9 @@
+.section{
+    height: 100vh; /* full height of the viewport */
+     width: 100vw;  /* full width of the viewport */
+}
+
+.primaryFont{
+        font-family: Cormorant;
+}   
+

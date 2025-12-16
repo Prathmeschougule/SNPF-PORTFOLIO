@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Social from '../component/Social'
 import MobileNav from '../component/MobileNav'
-import Logo from '../assets/Logo.png'
 import "../index.css";
 
 function Header() {
